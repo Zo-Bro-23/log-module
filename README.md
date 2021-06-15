@@ -1,2 +1,2 @@
 # log
-Logs to the terminal window...
+Logs to the terminal window... Test NPM module.
